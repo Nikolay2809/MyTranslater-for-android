@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyTranslater</string>
+
+    <string name="checkRemove">Вы уверены, что хотите удалить запись?</string>
+    <string name="removing">Удаление!</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="findInFavorites">Найти в избранном</string>
+    <string name="findInHistory">Найти в истории</string>
+    <string name="yandexTranslater">\nПереведено сервисом «Яндекс.Переводчик» \n http://translate.yandex.ru</string>
+</resources>
